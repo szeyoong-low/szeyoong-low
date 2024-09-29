@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sy8low
-- 👀 I’m interested in AIML, web development, and their applications in improving human life.
-- 🌱 I’m currently learning how to build a full-stack web app.
-- 💞️ I’m looking to collaborate on any interesting project (if I have the time).
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sze-yoong-low-b52438210/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B4FcSAjyjSd%2BVL822MNQEsw%3D%3D)** works best. You can also find me on **[Quora](https://www.quora.com/profile/Sze-Yoong-Low)** and **[Stack Exchange](https://stackoverflow.com/users/23177658/sze-yoong-low)**.
+- 👀 I’m interested in AIML, web development, electronics, and their applications that improve human life.
+- 🌱 I just learnt how to build a full-stack web app.
+- 💞️ I’d love to learn more about hardware and computer architecture. When I have the time, I wanna tinker with Raspberry Pis. 
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sze-yoong-low-b52438210/)** works best. You can also find me on **[Quora](https://www.quora.com/profile/Sze-Yoong-Low)**, **[Stack Exchange](https://stackoverflow.com/users/23177658/sze-yoong-low)**, and **[Goodreads](https://www.goodreads.com/user/show/125778125-sze-yoong)**.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I only started coding on 1st of Jan 2024!
 
