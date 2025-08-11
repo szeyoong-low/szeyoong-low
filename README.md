@@ -12,6 +12,7 @@ Skills
 - Web development: HTML, CSS, JavaScript, Bootstrap, Flask
 - Data analytics: Excel (inc. Power Query), SQL
 
+Resume & Contact Details
 - **[Resume](https://drive.google.com/file/d/1RaGUVoyZhPgEx80v79AOLrs1lj8FtS4Q/view?usp=sharing)**
 - **[LinkedIn](https://www.linkedin.com/in/sze-yoong-low-b52438210/)**
 - **[Email](mailto:low.szeyoong@gmail.com)**
