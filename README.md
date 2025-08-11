@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @sy8low
-- 👀 I’m interested in AIML, web development, electronics, and their applications that improve human life.
-- 🌱 I just learnt how to build a full-stack web app.
-- 💞️ I’d love to learn more about hardware and computer architecture. When I have the time, I wanna tinker with Raspberry Pis. 
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sze-yoong-low-b52438210/)** works best. You can also find me on **[Quora](https://www.quora.com/profile/Sze-Yoong-Low)**, **[Stack Exchange](https://stackoverflow.com/users/23177658/sze-yoong-low)**, and **[Goodreads](https://www.goodreads.com/user/show/125778125-sze-yoong)**.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I only started coding on 1st of Jan 2024!
+Hi, I’m Sze Yoong **Low**, a first-year Computer Science student based in London, U.K.
+
+- Education: Imperial College London - BEng Computing, 2025-2028
+- Work experience: Boston Consulting Group (BCG) - Case Team Assistant, 2025
+
+Projects
+- [Food-4BigTots](https://github.com/sy8low/Food-4BigTots): A Flask web app, in tribute to my mum’s food blog Food-4Tots. Dynamic content rendering from SQL database.
+- [myHealth](https://github.com/sy8low/myHealth): A Python command-line app to create medical history reports for doctor's appointments and visualize data in downloadable charts.
+
+Skills
+- Programming: C, Python (inc. NumPy, Pandas, Matplotlib, Pytest), Git
+- Web development: HTML, CSS, JavaScript, Bootstrap, Flask
+- Data analytics: Excel (inc. Power Query), SQL
+
+- **[Resume](https://drive.google.com/file/d/1RaGUVoyZhPgEx80v79AOLrs1lj8FtS4Q/view?usp=sharing)**
+- **[LinkedIn](https://www.linkedin.com/in/sze-yoong-low-b52438210/)**
+- **[Email](mailto:low.szeyoong@gmail.com)**
+- **[Project write-ups](https://drive.google.com/drive/folders/1SNn-D9br31h6yD-9IPI1dQJPYaSt366m?usp=drive_link)**
 
 <!---
 sy8low/sy8low is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
