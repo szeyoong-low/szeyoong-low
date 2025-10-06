@@ -17,7 +17,7 @@ Hi, I’m Sze Yoong **Low**, a Computer Science student based in London, U.K.
 - **Languages**: Mandarin, Cantonese, Bahasa Melayu
 
 ### Resume & Contact Details
-- **[Resume](https://tinyurl.com/szeyoong-low-resume-051025)**
+- **[Resume](https://tinyurl.com/szeyoong-low-resume-061025)**
 - **[LinkedIn](https://www.linkedin.com/in/szeyoong-low/)**
 - **[Email](mailto:low.szeyoong@gmail.com)**
 
