@@ -8,18 +8,19 @@ Hi, I’m Sze Yoong **Low**, a Computer Science student based in London, U.K.
 
 ### Projects
 - **[Food-4BigTots](https://github.com/szeyoong-low/Food-4BigTots)**: Full-stack Flask [web app](https://www.food-4bigtots.xyz/), a revamp of my mum’s food blog [Food-4Tots](https://food-4tots.com/)
-- **[myHealth](https://github.com/szeyoong-low/myHealth)**: Python command-line app that helps patients and caregivers create medical history reports for doctor's appointments
-
+- **[myHealth](https://github.com/szeyoong-low/myHealth)**: Python command-line app that that helps caregivers create medical history reports for elderly patients’ routine checkups and emergency hospitalisations
 ### Skills
-- **Programming**: C, Python (inc. NumPy, Pandas, Matplotlib, Pytest), Git
-- **Web development**:Flask, Bootstrap, CSS, JavaScript, HTML (inc. Jinja)
-- **Data analytics**: SQL, Excel (inc. Power Query)
+- **Programming**: Python (inc. NumPy, Pandas, Matplotlib, Pytest, SciPy, PyQtGraph), C, Kotlin, Haskell, Git
+- **Full-stack web development**: Flask, Bootstrap, JavaScript, CSS (inc. SASS), HTML (inc. Jinja)
+- **Data analytics**: SQL (inc. PostgreSQL, SQLite), Excel (inc. Power Query), Jupyter Notebook
+- **Presentation and media production**: CapCut, Filmora, PowerPoint, Word, Canva
 - **Languages**: Mandarin, Cantonese, Bahasa Melayu
 
 ### Resume & Contact Details
-- **[Resume](https://tinyurl.com/szeyoong-low-resume-061025)**
+- **[Resume](https://tinyurl.com/szeyoong-low-resume-20251208)**
 - **[LinkedIn](https://www.linkedin.com/in/szeyoong-low/)**
 - **[Email](mailto:low.szeyoong@gmail.com)**
+- **[GitLab](https://gitlab.doc.ic.ac.uk/syl125)**
 
 <!---
 sy8low/sy8low is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
