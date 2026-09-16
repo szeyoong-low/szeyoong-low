@@ -8,18 +8,19 @@ Hi, I’m Sze Yoong **Low**, a software engineer based in London, U.K.
 - **[Boston Consulting Group (BCG)](https://www.bcg.com/)**: Case Team Assistant, 2025
 
 ### Projects
-- **[Canary](https://canary.markets/)**: Agentic Jupyter Notebook for building interactive analyst reports
+- **[Canary](https://github.com/szeyoong-low/canary)**: [Agentic Jupyter Notebook](https://canary.markets/) for building interactive analyst reports
 - **[3D Cellular Automata Simulation Engine](https://github.com/szeyoong-low/3D-Cellular-Automata)**: GPU acceleration, voxel optimisations
 - **[Imperial's First Order Robotics team](https://github.com/First-Order-RoboCup-SSL)**: Real-time digital signal processing for autonomous robots. Built [Kalman filters](https://github.com/First-Order-RoboCup-SSL/Utama-Core/pull/101).
+- **[Food-4BigTots](https://github.com/szeyoong-low/Food-4BigTots)**: Full-stack Flask [web app](https://www.food-4bigtots.xyz/), a revamp of my mum’s food blog [Food-4Tots](https://food-4tots.com/)
 
-### Skills
+### Skills and technologies
 - **Programming**: C, Kotlin, Java, Python, TypeScript, Haskell
 - **Infrastructure and DevOps**: AWS, Terraform, Docker, Cloudflare Workers, GitHub Actions, Bash, PowerShell
 - **Full-stack web development**: FastAPI, Express.js, Flask, LangGraph, Auth0, React, React Router, TanStack
 - **Databases and analytics**: PostgreSQL, MySQL, SQLite, Polars, Pandas, NumPy, Matplotlib, Apache ECharts, Excel
 - **Native languages**: Mandarin Chinese, Cantonese, Bahasa Melayu
 
-### Resume & Contact Details
+### Resume and contact details
 - **[Resume](https://szeyoong-low.github.io/resume/resume.pdf)**
 - **[LinkedIn](https://www.linkedin.com/in/szeyoong-low/)**
 - **[Email](mailto:low.szeyoong@gmail.com)**
