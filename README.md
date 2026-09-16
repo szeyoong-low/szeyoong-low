@@ -1,26 +1,26 @@
-Hi, I’m Sze Yoong **Low**, a Computer Science student based in London, U.K.
+Hi, I’m Sze Yoong **Low**, a software engineer based in London, U.K.
 
 ### Education
-- Imperial College London - BEng Computing, 2025-2028
+- **Imperial College London**: BEng Computing, 2025-2028
 
 ### Work experience
-- Boston Consulting Group (BCG) - Case Team Assistant, 2025
+- **[Maxis](https://www.maxis.com.my/en/about-maxis/)**: AI Automation Software Engineering Intern, 2026
+- **[Boston Consulting Group (BCG)](https://www.bcg.com/)**: Case Team Assistant, 2025
 
 ### Projects
-- **[Imperial's First Order Robotics team](https://github.com/First-Order-RoboCup-SSL)**: Software engineer, specialising in data processing for motion planning. Built [Kalman filters](https://github.com/First-Order-RoboCup-SSL/Utama-Core/pull/101) and [finite-impulse response (FIR) filters](https://github.com/First-Order-RoboCup-SSL/Utama-Core/pull/81).
-- **[Diner 2050](https://github.com/szeyoong-low/diner2050)**: Full-stack Next.js [web app](https://diner2050.vercel.app/), an editable menu for a fictional sci-fi restaurant that interacts with REST API endpoints and third-party services.
-- **[Food-4BigTots](https://github.com/szeyoong-low/Food-4BigTots)**: Full-stack Flask [web app](https://www.food-4bigtots.xyz/), a revamp of my mum’s food blog [Food-4Tots](https://food-4tots.com/).
-- **[myHealth](https://github.com/szeyoong-low/myHealth)**: Python command-line app that that helps caregivers create medical history reports for elderly patients’ routine checkups and emergency hospitalisations.
+- **[Canary](https://canary.markets/)**: Agentic Jupyter Notebook for building interactive analyst reports
+- **[3D Cellular Automata Simulation Engine](https://github.com/szeyoong-low/3D-Cellular-Automata)**: GPU acceleration, voxel optimisations
+- **[Imperial's First Order Robotics team](https://github.com/First-Order-RoboCup-SSL)**: Real-time digital signal processing for autonomous robots. Built [Kalman filters](https://github.com/First-Order-RoboCup-SSL/Utama-Core/pull/101).
 
 ### Skills
-- **Programming**: Python (inc. NumPy, Pandas, Matplotlib, Pytest), C, Kotlin, Java, Haskell, Git
-- **Full-stack web development**: Next.js, React, TypeScript/JavaScript, Flask, Tailwind CSS, Strapi, Postman, Vercel, Auth0
-- **Data analytics**: SQL (inc. PostgreSQL, SQLite), Excel (inc. Power Query), Jupyter Notebook
-- **Presentation and media production**: CapCut, Filmora, PowerPoint, Word, Canva
-- **Languages**: Mandarin, Cantonese, Bahasa Melayu
+- **Programming**: C, Kotlin, Java, Python, TypeScript, Haskell
+- **Infrastructure and DevOps**: AWS, Terraform, Docker, Cloudflare Workers, GitHub Actions, Bash, PowerShell
+- **Full-stack web development**: FastAPI, Express.js, Flask, LangGraph, Auth0, React, React Router, TanStack
+- **Databases and analytics**: PostgreSQL, MySQL, SQLite, Polars, Pandas, NumPy, Matplotlib, Apache ECharts, Excel
+- **Native languages**: Mandarin Chinese, Cantonese, Bahasa Melayu
 
 ### Resume & Contact Details
-- **[Resume](https://tinyurl.com/szeyoong-low-resume-20250129)**
+- **[Resume](https://szeyoong-low.github.io/resume/resume.pdf)**
 - **[LinkedIn](https://www.linkedin.com/in/szeyoong-low/)**
 - **[Email](mailto:low.szeyoong@gmail.com)**
 - **[GitLab](https://gitlab.doc.ic.ac.uk/syl125)**
